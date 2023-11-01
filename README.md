@@ -1,6 +1,6 @@
 # calc-iijmio-plan
 
-[IIJmio](https://www.iijmio.jp/) のSIMをデータシェアするときに必要な容量とプランの組み合わせを最適化する。
+[IIJmio](https://www.iijmio.jp/) で複数SIMをデータシェアするときに必要な容量とプランの組み合わせを最適化する。
 
 実行
 
