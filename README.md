@@ -1,17 +1,17 @@
 # calc-iijmio-plan
 
-[IIJmio](https://www.iijmio.jp/) のSIMの組み合わせを最適化する。
+[IIJmio](https://www.iijmio.jp/) のSIMをデータシェアするときに必要な容量とプランの組み合わせを最適化する。
 
 実行
 
 ```bash
-node main.js {SIM契約数} {音声SIM契約数} {データ容量最小} {データ容量最大}
+node main.js {SIM契約数} {音声SIM契約数} {データ容量下限} {データ容量上限}
 ```
 
 実行例）
 
 ```bash
-単価の安い組み合わせランキング
+GB単価の安い組み合わせランキング
 条件: 契約SIM数=3（うち音声SIM=2）&& データ容量=0〜20[GB] 
 
 No.1, データ容量:20 [GB], 料金:￥3080, 単価:￥154 [/GB]
