@@ -1,5 +1,7 @@
 # calc-iijmio-plan
 
+[IIJmio](https://www.iijmio.jp/) のSIMの組み合わせを最適化する。
+
 実行
 
 ```bash
